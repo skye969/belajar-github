@@ -1,0 +1,1 @@
+Halo, ini latihan pertama saya menggunakan GitHub Desktop!
